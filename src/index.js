@@ -23,8 +23,5 @@ ReactDOM.render(
   document.getElementById('global')
 );
 
-<<<<<<< HEAD
 export default meInReact
-=======
-export default meInReact
->>>>>>> cb5c81b16a3a8a2257d774d145e98f522fa0acd3
+
